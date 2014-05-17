@@ -3,8 +3,8 @@ _BACKGROUND = "rgba(255, 255, 255, 0.50)";
 _FOREGROUND = "rgba(255, 255, 255, 0.75)";
 _TEXT = "rgba(0, 0, 0, 1.00)";
 _CAPTION = true;
-_LATITUDE = 33.81187;
-_LONGITUDE = 241.92014;
+_LATITUDE = 40.6928;
+_LONGITUDE = 73.9903;
 
 (function ($) {
 	$.fn.spinload = function (opts) {
