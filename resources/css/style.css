@@ -10,6 +10,12 @@
 /*** FONTS ***/
 
 @font-face {
+        font-family: 'The Woods Black';
+        font-style: normal;
+        font-weiht: 400;
+}
+
+@font-face {
 	font-family: Lobster;
 	font-style: normal;
 	font-weight: 400;
@@ -551,7 +557,7 @@ body {
 	border-radius: 0;
 	background: transparent;
 	opacity: 1;
-	font: 50px/50px Lobster, Helvetica, Arial;
+	font: 50px/50px 'The Woods Black', Helvetica, Arial;
 	color: #FFFFFF;
 	text-align: center;
 	text-decoration: none;
